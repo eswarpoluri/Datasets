@@ -1,0 +1,434 @@
+,text,intent
+0,It&apos;s not showing the error as FALSE,O
+1,Okay np,good_bye
+2,Good Evening Sir/Madam I have a doubt in my python assignment- 2 In task-1 the first two question states to recreate filter and reduce function may I know if I should recreate the functionality is alone fine or should I follow synatatical stucture and all for filter function kindly brief me.,assignment_python
+3,can u just send me that initial drive code ..I tried in google but was not getting the actual code for that,drive_code_colab
+4,ok lets see if it run or not,sure
+5,I have register for it / I still not receive any email to  <a href=mailto:hiranf@yahoo.com>hiranf@yahoo.com</a> regarding about this / I checked spam folder allso / no email,support_ticket_generate
+6,sir I have seen the lectures and solved some of the problems from google but the point is in coding I am making lots of mistakes,need_help
+7,one more query,need_help
+8,<quote author=live:.cid.4933a22bf564744 authorname=support@ineuron.ai timestamp=1603441378 conversation=8:live:.cid.4933a22bf564744 messageid=1603441377768 cuid=10863797235076714573><legacyquote>[1603441378] support@ineuron.ai: </legacyquote>mail only sir<legacyquote>&lt;&lt;&lt; </legacyquote></quote>okay thank you.,O
+9,"If I close that, do i get any error while installing again?",need_help
+10,means dictinery show key values as index not another variable values as index?,need_help
+11,thank you,Thank_you
+12,ok sir thank you,good_bye
+13,I didnt get the dashboard access for Tableau and Power BI,power-bi_tableau_dashboard
+14,ok got it thanks,Thank_you
+15,Can you send dashboard access for me... Email is <a href=mailto:kar6270@gmail.com>kar6270@gmail.com</a> for both Visualisation and Python classes,support_ticket_generate
+16,i had installed pycharm. i just ask how to install all packages in pycharm ??,need_help
+17,list 3 and 4 i have doubt,support_ticket_generate
+18,That&apos;s why I join in ipad,O
+19,yes,Thank_you
+20,But getting error,code_error
+21,okay I&apos;ll check it get back to u sir..,sure
+22,When will classes starts,batch_details
+23,doubt clear session of last week,doubt_clear_session
+24,ohk sir thank you,Thank_you
+25,I would like to have a access to the dashboard of python,support_ticket_generate
+26,if a:b means if a equals to be ..is this correct?,code_error
+27,I had install anaconda and used after restart my system I have not found,enter_query
+28,I have copy pasted the code available in dashboard ..but I ll check once again..,sure
+29,how will i approach to solve it,need_help
+30,I have been registered for power BI course and python course,enter_query
+31,ok thank u,Thank_you
+32,in mysql,mysql
+33,sir the link of doubt sesssion is of another batch please resend me the link again,doubt_session_link
+34,"I have installed anaconda python 3.7 version and when ever I tried to open python in Jupiter notebook, a pop up comes starting &quot;python has stopped working&quot; and because of which iam not able to write code and compile,please tell a solution to fix this problem",anaconda_jnotebook_run
+35,It has been installing all but it was struck at that stage in the picture I sent,O
+36,Kindly provide dashboard for my friend the screen shot and email I&apos;ve dropped down,Dashboard_access
+37,sorry for the late reply,Thank_you
+38,Ok sir,good_bye
+39,"Hlw sir,  I m from 22nd February ml batch.. I m having problem while deploying my code in bot emulator.. (azure Luis). It's showing error code 500..app works  fine on terminal ..but I don't know why it is not responding in bot emulator.. What should I do?",azure_luis_500_error
+40,hi,Greetings
+41,shall I share a snap,sure
+42,"Full name :- ANIKET KUMAR , Email id :- <a href=mailto:aniketsay528@gmail.com>aniketsay528@gmail.com</a>",user_email
+43,Hi,Greetings
+44,but i am expecting dashboard access for python,support_ticket_generate
+45,Sir if we drop a column by using inplace = true then any how we can get back the column,need_help
+46,Sir here I should have a path to Google cloud SDK location. Where I should direct it to bin. But there is no path to gcloud sdk,need_help
+47,how to solve this?,need_help
+48,"hey, ask amit bose to put laptop for charging, it is showing the battery status low...",laugh
+49,thank you,Thank_you
+50,"Hi, when will be the recording classes of 25th and 26th April available on dashboard for DLCVNLP batch?",dashboard_add_recording
+51,Sir same error,need_help
+52,<partlist type=started alt= callId=7b79b4ce-8ff5-45db-b74a-0e88bbd3e738><part identity=live:yash20december><name>yash agrawal</name></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name></part></partlist>,O
+53,"Respected sir/madam, a friend of mine has not received his dashboard kindly help with the issue",Dashboard_access
+54,its awesome,Thank_you
+55,<a href=https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews>https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews</a>,O
+56,some one will explain about project or everythin do ourself,need_help
+57,sir the assignments are to be submitted via github,assignment_submittion
+58,<partlist type=missed alt= callId=9c6ec014-74cf-4703-afb4-54397a5ed433><part identity=live:yash20december><name>yash agrawal</name><duration>99.392</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>99.392</duration></part></partlist>,O
+59,Hello sir,Greetings
+60,Okay. Thanks for your response.,welocme_reply
+61,And our starting date is 10/10/2020,need_help
+62,Hi Sir/Madam<e_m a=live:cibim04 ts_ms=1600008091998 ts=1600008091 t=61></e_m>,Greetings
+63,file is not opening,need_help
+64,one question; while giving the input I gave as a = input('First Name ') next line b = input('Last Name '),support_ticket_generate
+65,hello,Greetings
+66,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d8-a1b0df456e4dcffaa2ea1295238bc7d3 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d8-a1b0df456e4dcffaa2ea1295238bc7d3/views/imgt1_anim type=Picture.1 doc_id=0-sa-d8-a1b0df456e4dcffaa2ea1295238bc7d3 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-a1b0df456e4dcffaa2ea1295238bc7d3>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-a1b0df456e4dcffaa2ea1295238bc7d3</a><OriginalName v=Untitled.png></OriginalName><FileSize v=205510></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+67,Thank u,Thank_you
+68,I am not able to change the directory in my Anaconda Prompt,anaconda_prompt
+69,where you had this particular excersise,O
+70,Waiting for your lecture upload on 17 and 18,recordings_not_avilable
+71,will it take time for the files to be uploaded,need_help
+72,<partlist type=missed alt= OId=322f252c-b84f-4969-83ef-644df92db0d2><part identity=live:.cid.77ac9baabfb6f439><name>lubna fatima</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineuron_ai</name></part></partlist>,O
+73,6th june,sorry
+74,I am not able to see Power BI in my Canvas Dashboard,dashboard_content_view_problem
+75,ok sir i will do thta also,sure
+76,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-95850a689897cd5ca6e464c853864175 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-95850a689897cd5ca6e464c853864175/views/imgt1_anim type=Picture.1 doc_id=0-sa-d4-95850a689897cd5ca6e464c853864175 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-95850a689897cd5ca6e464c853864175>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-95850a689897cd5ca6e464c853864175</a><OriginalName v=Untitled.png></OriginalName><FileSize v=358920></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+77,Respected Sir the 26-sep 20 video of DL class of batch DL25july shows private video kindly do the needful,recordings_not_avilable
+78,Understanding image are not coming,O
+79,Thanks,welocme_reply
+80,Respected sir isn&apos;t spark community classes happening?,community_class
+81,and one more thing in stats assignment question number 10,assignment_stats
+82,Actually I m doing the review scrapper project and there I have bs=0.0.1 in my requirements.txt file and it asks me to install it.so I m trying to install it,python_requirements_install
+83,can u guide me on this,sure
+84,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-3156a4c9be6fa6456b3c25917affbc9a url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-3156a4c9be6fa6456b3c25917affbc9a/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-3156a4c9be6fa6456b3c25917affbc9a width=1283 height=347>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-3156a4c9be6fa6456b3c25917affbc9a>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-3156a4c9be6fa6456b3c25917affbc9a</a><OriginalName v=picturemessage_124oru0k.qke.png></OriginalName><FileSize v=22210></FileSize><meta type=photo originalName=picturemessage_124oru0k.qke.png></meta></URIObject>",O
+85,however how much time are you suggesting I should invest.,need_help
+86,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-769ff3b120877fda9f73c934179f109d url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-769ff3b120877fda9f73c934179f109d/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-769ff3b120877fda9f73c934179f109d width=1152.4501758499414 height=2048>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-769ff3b120877fda9f73c934179f109d>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-769ff3b120877fda9f73c934179f109d</a><OriginalName v=1600254273373.JPEG></OriginalName><FileSize v=28781></FileSize><meta type=photo originalName=1600254273373.JPEG></meta></URIObject>",O
+87,now can u tell me how to pick that max latitude columns itself,code_error
+88,already done,Thank_you
+89,Payment Id:pay_Ev1gcuE6zKuyvz,O
+90,Sure,good_bye
+91,ok,good_bye
+92,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-96e6aa36c95c22c928bb9def3025bdab url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-96e6aa36c95c22c928bb9def3025bdab/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-96e6aa36c95c22c928bb9def3025bdab width=1920 height=1080>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-96e6aa36c95c22c928bb9def3025bdab>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-96e6aa36c95c22c928bb9def3025bdab</a><OriginalName v=Screenshot from 2020-05-05 21-19-59.png></OriginalName><FileSize v=136289></FileSize><meta type=photo originalName=Screenshot from 2020-05-05 21-19-59.png></meta></URIObject>",O
+93,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d6-7ccf1f956bfbeee9e296a1121e935bdc url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d6-7ccf1f956bfbeee9e296a1121e935bdc/views/imgt1_anim type=Picture.1 doc_id=0-sa-d6-7ccf1f956bfbeee9e296a1121e935bdc width=2048 height=1536>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-7ccf1f956bfbeee9e296a1121e935bdc>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-7ccf1f956bfbeee9e296a1121e935bdc</a><OriginalName v=1587633417811.JPEG></OriginalName><FileSize v=105522></FileSize><meta type=photo originalName=1587633417811.JPEG></meta></URIObject>",O
+94,should i create a new env or in existing env i can modify?,need_help
+95,yes...,Thank_you
+96,<partlist type=missed alt= OId=b08e461c-90e6-458f-842a-892dee8e1d08><part identity=live:.cid.fe63248b85b39c2f><name>Vikash Singh</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineuron ai</name></part></partlist>,O
+97,Shal we have a short call sir  ?,need_skype_call
+98,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-6d639b8df06699a403a9de61267a08b5 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-6d639b8df06699a403a9de61267a08b5/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-6d639b8df06699a403a9de61267a08b5 width=285 height=197>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-6d639b8df06699a403a9de61267a08b5>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-6d639b8df06699a403a9de61267a08b5</a><OriginalName v=image_2020_09_18T14_32_52_535Z.png></OriginalName><FileSize v=5723></FileSize><meta type=photo originalName=image_2020_09_18T14_32_52_535Z.png></meta></URIObject>",O
+99,its giving error on command prompt,need_help
+100,And I have a msg like &quot; install latest version of pip&quot; but if I do that then also error comes,need_help
+101,I have 2 doubts in this code.1. Why im not getting exception error as i mentioned in the code.2. Here Why X is not defined.,code_error
+102,ok,okay_reply
+103,"x1=53p1=0.53p2=0.53n1=1000x2=43n2=100alpha=0.05population1 = np.random.binomial(1, p1, n1)population2 = np.random.binomial(1, p2, n2)pval =sm.stats.ttest_ind(population1, population2)print(pval)if pval&lt;alpha:    print(&quot;reject null hypothesis&quot;)else:    print(&quot;accept null hypothesis&quot;)",code_error
+104,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-64f980faaf94d57633e37554f52f6888 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-64f980faaf94d57633e37554f52f6888/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-64f980faaf94d57633e37554f52f6888 width=2048 height=1152>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-64f980faaf94d57633e37554f52f6888>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-64f980faaf94d57633e37554f52f6888</a><OriginalName v=1600713496187.JPEG></OriginalName><FileSize v=285530></FileSize><meta type=photo originalName=1600713496187.JPEG></meta></URIObject>",O
+105,and how to do digital signature,need_help
+106,??,O
+107,Thanks Team. Will save this contact and will be in touch.,okay_reply
+108,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-94a1c33ae40a6957adc2efc5feaff877 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-94a1c33ae40a6957adc2efc5feaff877/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-94a1c33ae40a6957adc2efc5feaff877 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-94a1c33ae40a6957adc2efc5feaff877>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-94a1c33ae40a6957adc2efc5feaff877</a><OriginalName v=Untitled.png></OriginalName><FileSize v=364505></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+109,Sir I want to know is there any criteria to fulfill  to join the internship?,internship_query
+110,Hello sir is there anyone,Greetings
+111,same problem is showing,need_help
+112,"sir have some patience...i&apos;m tryinig to understand and once i do, i won&apos;t be asking the same question",O
+113,<quote author=live:.cid.4933a22bf564744 authorname=support@ineuron.ai timestamp=1593665821 conversation=8:live:.cid.4933a22bf564744 messageid=1593665820820 cuid=4913508648326643647><legacyquote>[1593665821] support@ineuron.ai: </legacyquote>you will get mail when the internship start sir<legacyquote>&lt;&lt;&lt; </legacyquote></quote>some of my batch mates are already in an IPCMIN group...Would it be possible for you to add me in the same group ?,internship_query
+114,Can you please check,need_help
+115,Can you please let me know when will books will be available in dashboard,books_availablity_dashboard
+116,ow can you tell me how can I pick another column along with this mean,code_error
+117,Can You please check?,need_help
+118,yes,okay_reply
+119,ok,okay_reply
+120,Sat and Sunday videos are not uploaded yet ?,youtube_video_availability
+121,their is no option of terminal in windows,need_help
+122,Hi,Greetings
+123,I am student of ML_Aug_29 Batch,batch_details
+124,<MediaAlbum albumId=38a9d5bc-af20-40a3-a0d7-7ac9da244002></MediaAlbum>,O
+125,thank you,Thank_you
+126,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-2fd9a6fae747fd55fdb2896aa2dc8678 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-2fd9a6fae747fd55fdb2896aa2dc8678/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-2fd9a6fae747fd55fdb2896aa2dc8678 width=833 height=380>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-2fd9a6fae747fd55fdb2896aa2dc8678>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-2fd9a6fae747fd55fdb2896aa2dc8678</a><OriginalName v=picturemessage_ljdoyntg.4xs.png></OriginalName><FileSize v=23195></FileSize><meta type=photo originalName=picturemessage_ljdoyntg.4xs.png></meta></URIObject>",O
+127,"the code that i have sent their is an attribute error, will you please guide what to correct in that code?",need_help
+128,Yesterday it was working,need_help
+129,Still not recieved the dashboard,support_ticket_generate
+130,Sorry to bother.you..error got fixed,great
+131,<partlist type=missed alt= callId=da21e27a-db11-4fa6-9de5-b1f62c52ea10><part identity=live:f8de31c4ca05027><name>Anshul Singh</name><duration>59.215</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>59.215</duration></part></partlist>,O
+132,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d6-72febf690243e52e7f35abd3482a3cd1 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d6-72febf690243e52e7f35abd3482a3cd1/views/imgt1_anim type=Picture.1 doc_id=0-sa-d6-72febf690243e52e7f35abd3482a3cd1 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-72febf690243e52e7f35abd3482a3cd1>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-72febf690243e52e7f35abd3482a3cd1</a><OriginalName v=Untitled.png></OriginalName><FileSize v=79290></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+133,its working,great
+134,hi,Greetings
+135,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-42f9c8c9582a62e2e6c77402a2c4ae1f url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-42f9c8c9582a62e2e6c77402a2c4ae1f/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-42f9c8c9582a62e2e6c77402a2c4ae1f width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-42f9c8c9582a62e2e6c77402a2c4ae1f>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-42f9c8c9582a62e2e6c77402a2c4ae1f</a><OriginalName v=Untitled.png></OriginalName><FileSize v=143768></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+136,one more problem regarding heroku cloud system there in the last step its showing error for deployment,heroku_deployment
+137,got it,okay_reply
+138,please look ino the issue,support_ticket_generate
+139,while running the app again error shows as earlier no module name flask,code_error
+140,ok,good_bye
+141,please send it again here,need_help
+142,but my data set is a power consumption data set,code_error
+143,K is not a vowel as an output,O
+144,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d2-b0656458736e437e78bd9e7e2a2e14fe url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d2-b0656458736e437e78bd9e7e2a2e14fe/views/imgt1_anim type=Picture.1 doc_id=0-sa-d2-b0656458736e437e78bd9e7e2a2e14fe width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-b0656458736e437e78bd9e7e2a2e14fe>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-b0656458736e437e78bd9e7e2a2e14fe</a><OriginalName v=Untitled.png></OriginalName><FileSize v=133710></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+145,<partlist type=missed alt= callId=98b4d053-0e08-456f-a75b-aafe73d3adf6><part identity=live:.cid.b6267eb447e04148><name>Saritha Jaligama</name><duration>52.452</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>52.452</duration></part></partlist>,O
+146,Got it.thank you,Thank_you
+147,"32 , filtered and price_per_item",need_help
+148,"sir , i got you",great
+149,will u please help me on that,need_help
+150,Hi I was just going through the courses on iNeuron website. I could see that the ML batch is already in progress (started from 28th March). Will I be able to enroll into the same batch even if I&apos;m late? Or there will be new batch for ML in near future ?,need_help
+151,hi,Greetings
+152,ok,good_bye
+153,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-793f15b9d3a55c4fc651f7094781baa6 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-793f15b9d3a55c4fc651f7094781baa6/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-793f15b9d3a55c4fc651f7094781baa6 width=1152.428730926684 height=2048>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-793f15b9d3a55c4fc651f7094781baa6>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-793f15b9d3a55c4fc651f7094781baa6</a><OriginalName v=1596123253927.JPEG></OriginalName><FileSize v=137117></FileSize><meta type=photo originalName=1596123253927.JPEG></meta></URIObject>",O
+154,ok,good_bye
+155,all classes or only full stacked developer,need_help
+156,ok sir i will do as you ask,sure
+157,Thank you so much,welocme_reply
+158,Good evening Sir/madam can I have a brief explanation of this DAX query from Power BI,powerbi_query
+159,thanks,welocme_reply
+160,So I got out and again joining it,sure
+161,this is the first question sir,need_help
+162,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-0d4a96264dec9da58bcfeb20c1928861 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-0d4a96264dec9da58bcfeb20c1928861/views/imgt1_anim type=Picture.1 doc_id=0-sa-d4-0d4a96264dec9da58bcfeb20c1928861 width=1536 height=2048>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-0d4a96264dec9da58bcfeb20c1928861>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-0d4a96264dec9da58bcfeb20c1928861</a><OriginalName v=1597759716035.JPEG></OriginalName><FileSize v=73001></FileSize><meta type=photo originalName=1597759716035.JPEG></meta></URIObject>",O
+163,1st and 3rd,O
+164,I am getting pic error when i am deploying model on the heroku,heroku_deployment
+165,"Hey team  anybody (intern) has worked on user segmentation , behavioral data ... need some insights and stuffs .. will be paid for the thing ... highly appreciated ... plz let me know",need_help
+166,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-ea-d5-db82847dbd03b7e22363503ccf1cfb74 url_thumbnail=https://api.asm.skype.com/v1/objects/0-ea-d5-db82847dbd03b7e22363503ccf1cfb74/views/imgt1_anim type=Picture.1 doc_id=0-ea-d5-db82847dbd03b7e22363503ccf1cfb74 width=3584 height=2240>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d5-db82847dbd03b7e22363503ccf1cfb74>https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d5-db82847dbd03b7e22363503ccf1cfb74</a><OriginalName v=Screenshot 2020-04-20 at 5.54.30 PM.png></OriginalName><FileSize v=1544762></FileSize><meta type=photo originalName=Screenshot 2020-04-20 at 5.54.30 PM.png></meta></URIObject>",O
+167,Sir 5th  waala smjh nhi aarha hai kaise kare.,need_help
+168,Hello,Greetings
+169,means the initil code to setup drive in colab,drive_code_colab
+170,Did you checked??,need_help
+171,ok sir,Thank_you
+172,already sent sir,Thank_you
+173,so without converting data into higher dimensional how non -linear data will be separate by kernel trick.?,svm_doubt
+174,Please let me know wheater it is complete or you will going to upload a new one,need_help
+175,Good Evening Sir/Madam I have a doubt in my python assignment- 2 In task-1 the first two question states to recreate filter and reduce function may I know if its okay to do it for a single function(eg find even nos alone),assignment_python
+176,hello sir ru there??,Greetings
+177,hi,Greetings
+178,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-1e25b45208e6a1e0b38a15f31e467a6c url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-1e25b45208e6a1e0b38a15f31e467a6c/views/original type=File.1 doc_id=0-sa-d7-1e25b45208e6a1e0b38a15f31e467a6c>To view this file, go to: <a href=https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d7-1e25b45208e6a1e0b38a15f31e467a6c>https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d7-1e25b45208e6a1e0b38a15f31e467a6c</a><OriginalName v=323_7768_compressed_deliveries.csv (1).zip></OriginalName><FileSize v=1043897></FileSize></URIObject>",O
+179,whatever u have just give me,O
+180,in this I made a groupby as it had multiple columns,code_error
+181,that i have already corrected,great
+182,HiI have enrolled for the DL course which will be starting from 25th July.When I will be getting the access to the Dashboard?,Dashboard_access
+183,Accepted the invite.. Thanks.,welocme_reply
+184,ok thanks,welocme_reply
+185,hi,Greetings
+186,yes,good_bye
+187,but the url which i entered is correct right?,need_help
+188,hi,Greetings
+189,"I belong to management background done BBA, Though i habe completed the assignment but don't know how to use github",github_how_to_use
+190,but i am not getting the homework exercise link,assignment_link
+191,<a href=mailto:anshulsingh696@gmail.com>anshulsingh696@gmail.com</a>,O
+192,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-befb7fbafe5562976eb94c11475bf430 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-befb7fbafe5562976eb94c11475bf430/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-befb7fbafe5562976eb94c11475bf430 width=539 height=599>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-befb7fbafe5562976eb94c11475bf430>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-befb7fbafe5562976eb94c11475bf430</a><OriginalName v=image_2020_09_25T17_56_14_102Z.png></OriginalName><FileSize v=25870></FileSize><meta type=photo originalName=image_2020_09_25T17_56_14_102Z.png></meta></URIObject>",O
+193,and in pycharm it show bs4 is not installed even after doing that also,python_import_error
+194,(wave),Greetings
+195,After clicking on Get started then it is taking me to canvas page where it is asking me accept invitation and after that it is asking me login into Canvas where i am not able to login and then after clicking on need a new account it is taking me to select i am teacher or student and after selecting i am student it is asking for join code,canvas_login_problem
+196,ok thank u,Thank_you
+197,Got this Same error sir,code_error
+198,"I was also thinking the same. But those are not same.In one file, Wine dataset is taken.In other file, Iris dataset is taken (19th Jan recording Time: 1:54:06)",need_help
+199,not resolved yet,sorry
+200,I am not able to Enter my resume link in shared excel sheet,need_help
+201,i already have,need_help
+202,the p value is giving nan,need_help
+203,sir im sorry i could not understand,sorry
+204,"## checking the balance of the data by plotting the count of outcomes by their valuecolor_wheel = {1: &quot;#0392cf&quot;,                2: &quot;#7bc043&quot;}colors = diabetes_data[&quot;Outcome&quot;].map(lambda x: color_wheel.get(x + 1))print(diabetes_data.Outcome.value_counts())p=diabetes_data.Outcome.value_counts().plot(kind=&quot;bar&quot;)",code_error
+205,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d2-9203608a471a24161f0a8df7e4941003 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d2-9203608a471a24161f0a8df7e4941003/views/imgt1_anim type=Picture.1 doc_id=0-sa-d2-9203608a471a24161f0a8df7e4941003 width=2048 height=1152>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-9203608a471a24161f0a8df7e4941003>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-9203608a471a24161f0a8df7e4941003</a><OriginalName v=1601184818192.JPEG></OriginalName><FileSize v=48628></FileSize><meta type=photo originalName=1601184818192.JPEG></meta></URIObject>",O
+206,Thank you,welocme_reply
+207,<quote author=live:.cid.4933a22bf564744 authorname=support@ineuron.ai timestamp=1598693958 conversation=8:live:.cid.4933a22bf564744 messageid=1598693958273 cuid=14378042945986629139><legacyquote>[1598693958] support@ineuron.ai: </legacyquote>May i know which version you installed mam? and whats your python version mam?<legacyquote>&lt;&lt;&lt; </legacyquote></quote>version 2.3.0,O
+208,I have an issue with my system,system_issue
+209,and sir the files of mysql in the protal is also empty,dashboard_file_error
+210,"Actually I wanna extract datas like,  impressions , reach , CTR , through API  from Facebook or google through keyword search  ...",need_help
+211,Yes,Thank_you
+212,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-93597d2630b0131a531673111cbebb63 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-93597d2630b0131a531673111cbebb63/views/original type=File.1 doc_id=0-sa-d4-93597d2630b0131a531673111cbebb63>To view this file, go to: <a href=https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d4-93597d2630b0131a531673111cbebb63>https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d4-93597d2630b0131a531673111cbebb63</a><OriginalName v=chromedriver_win32.zip></OriginalName><FileSize v=5204275></FileSize></URIObject>",O
+213,now available,Thank_you
+214,Sir what is the difference between  inheritance aur encapsulation?In both we are able to access data from the other Class,python_oops
+215,error are coming,code_error
+216,"def student_info(*args,**kwargs)",python_arg_kwarg
+217,Yes upload assignment in Github and share a link in your assignment,assignment_submittion
+218,When we write &quot;listElement.reverse()&quot; where is it storing the reversed list?,support_ticket_generate
+219,ok,Thank_you
+220,I can send image,sure
+221,No,Thank_you
+222,sir i want to ask one question?,need_help
+223,can u help me on this by taking remote on my system,need_help
+224,Thanks can you also can you send invite for Python For Data Science In-depth Free live Training,community_class_link
+225,ok,Thank_you
+226,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d5-6923b62f621e0406063a6246cd37eadc url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-6923b62f621e0406063a6246cd37eadc/views/imgt1_anim type=Picture.1 doc_id=0-sa-d5-6923b62f621e0406063a6246cd37eadc width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-6923b62f621e0406063a6246cd37eadc>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-6923b62f621e0406063a6246cd37eadc</a><OriginalName v=Untitled.png></OriginalName><FileSize v=174334></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+227,MySQL installation is not happening,mysql_installation
+228,Hi support team. I have doubt regarding MODULE in python.,need_help
+229,ru there?,Greetings
+230,<partlist type=missed alt= OId=0fe59be9-8615-4403-821b-ba731afa7887><part identity=sourangshu.pal><name>sourangshu pal</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineueon ai</name></part></partlist>,O
+231,after type of anaconda-navigator in terminal not found anythings,support_ticket_generate
+232,<a href=https://colab.research.google.com/drive/1YRyJHU28soYqLzTK33K3aMzIpgHhjbhJ?usp=sharing>https://colab.research.google.com/drive/1YRyJHU28soYqLzTK33K3aMzIpgHhjbhJ?usp=sharing</a>,O
+233,how to find dataset in dashboard for power bi,powerbi_dataset
+234,It&#39;s saying METADATA is missing while installing graphviz,installation_graphviz
+235,I filled the form for the August ml batch but missed its induction session,need_help
+236,that i understand,great
+237,dashboard is add on my login,O
+238,<a href=https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=3ZKuy0Sv6Ww2&amp;line=2&amp;uniqifier=1>https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=3ZKuy0Sv6Ww2&amp;line=2&amp;uniqifier=1</a>,O
+239,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d6-38b1b9088f14ffeec5e3fa3539351d35 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d6-38b1b9088f14ffeec5e3fa3539351d35/views/imgt1_anim type=Picture.1 doc_id=0-sa-d6-38b1b9088f14ffeec5e3fa3539351d35 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-38b1b9088f14ffeec5e3fa3539351d35>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-38b1b9088f14ffeec5e3fa3539351d35</a><OriginalName v=Untitled.png></OriginalName><FileSize v=113192></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+240,Sure,good_bye
+241,Okay ..so you mean to say that I should not use CF via PyCharm?,need_help
+242,this link for only loss function and cost function,need_help
+243,when they available ??,need_help
+244,"Hi guys, I have registered for DLNLVP batch but didn't receive the link for today. My email id is khan-monis@outlook.com",support_ticket_generate
+245,Sir there are lot of 1 year PGP programs are going on..... sir after completing these programs it is considered  as masters or not sir...,need_help
+246,will you please tell me about abstractmethod,python_abstract
+247,I am facing a problem in the assignment,assignment_doubt
+248,Okay sure thank you.,Thank_you
+249,Yes,Thank_you
+250,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d2-f61a74357c6a0157752ccd09d79abeb3 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d2-f61a74357c6a0157752ccd09d79abeb3/views/imgt1_anim type=Picture.1 doc_id=0-sa-d2-f61a74357c6a0157752ccd09d79abeb3 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-f61a74357c6a0157752ccd09d79abeb3>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-f61a74357c6a0157752ccd09d79abeb3</a><OriginalName v=Untitled.png></OriginalName><FileSize v=175143></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+251,"it is available but the ordering of the code is quite wrong, it is available in the next section and it is happening with quite a lot of topics",support_ticket_generate
+252,yes sir,Thank_you
+253,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d6-3de81538ca1e13550701ded699bdd378 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d6-3de81538ca1e13550701ded699bdd378/views/imgt1_anim type=Picture.1 doc_id=0-sa-d6-3de81538ca1e13550701ded699bdd378 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-3de81538ca1e13550701ded699bdd378>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-3de81538ca1e13550701ded699bdd378</a><OriginalName v=Screenshot (65).png></OriginalName><FileSize v=149421></FileSize><meta type=photo originalName=Screenshot (65).png></meta></URIObject>",O
+254,for free community classes,community_class
+255,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-cb067f5fd76ab481aa481ce6c7d05477 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-cb067f5fd76ab481aa481ce6c7d05477/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-cb067f5fd76ab481aa481ce6c7d05477 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-cb067f5fd76ab481aa481ce6c7d05477>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-cb067f5fd76ab481aa481ce6c7d05477</a><OriginalName v=Screenshot at 2020-10-21 14-12-57.png></OriginalName><FileSize v=85487></FileSize><meta type=photo originalName=Screenshot at 2020-10-21 14-12-57.png></meta></URIObject>",O
+256,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-0bf410092769b3dcf649e45c906a9495 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-0bf410092769b3dcf649e45c906a9495/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-0bf410092769b3dcf649e45c906a9495 width=2048 height=1152>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-0bf410092769b3dcf649e45c906a9495>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-0bf410092769b3dcf649e45c906a9495</a><OriginalName v=1589986656857.JPEG></OriginalName><FileSize v=249169></FileSize><meta type=photo originalName=1589986656857.JPEG></meta></URIObject>",O
+257,"x1=120p1=0.40p2=0.20n1=300x2=140n2=700population1 = np.random.binomial(1, p1, n1)population2 = np.random.binomial(1, p2, n2)pval = sm.stats.ttest_ind(population1, population2)print(pval)if pval&lt;alpha:    print(&quot;reject null hypothesis&quot;)else:    print(&quot;accept null hypothesis&quot;)",code_error
+258,pymongo file working fine but atlas.ipynb file not working properly,need_help
+259,Locally it ran successfully.but I m having some problem while deploying to webserver. So what should I submit. is local server project will be okay or need to work and submit web server project,need_help
+260,I was trying to import flask library to start working on text scrapping.,need_help
+261,Hi.,Greetings
+262,<partlist type=ended alt= callId=abdb0325-b262-4215-a6a9-80be5005356b><part identity=live:yash20december><name>yash agrawal</name><duration>471.93</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>471.93</duration></part></partlist>,O
+263,Shudhanshu sir told that watch that videos for better understanding of deployment in Flask.,great
+264,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d8-c22510172f2da57c23e52c5c76d5d177 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d8-c22510172f2da57c23e52c5c76d5d177/views/thumbnail type=Video.1 doc_id=0-sa-d8-c22510172f2da57c23e52c5c76d5d177 width=720 height=1280>To view this shared video, go to: <a href=https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d8-c22510172f2da57c23e52c5c76d5d177>https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d8-c22510172f2da57c23e52c5c76d5d177</a><OriginalName v=videof3e989d9-9d39-43ce-a2c9-5c4afc00c7c6video.mp4></OriginalName><FileSize v=2373365></FileSize></URIObject>",O
+265,or perhaps you if you would know,need_help
+266,"<URIObject type=Picture.1 uri=https://api.asm.skype.com/v1/objects/0-sa-d5-e8814fef80ecea4217959d2dd836ffbe url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-e8814fef80ecea4217959d2dd836ffbe/views/imgt1>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback&amp;pic=0-sa-d5-e8814fef80ecea4217959d2dd836ffbe>https://login.skype.com/login/sso?go=xmmfallback&amp;pic=0-sa-d5-e8814fef80ecea4217959d2dd836ffbe</a><OriginalName v=IMG_20201007_141946793_20201007_141947978.jpg/><FileSize v=39359/><meta type=photo originalName=IMG_20201007_141946793_20201007_141947978.jpg/></URIObject>",O
+267,vv = []str1 = &apos;&apos;.join(vv)for i in bb:    if type(i)==str:        vv.append(i),code_error
+268,I have got dashboard for python In depth live,Greetings
+269,okay,good_bye
+270,Sir by this value_count  Function i am able to get  the how many times a batsman is dismissed....but sir is want to know specifically about how many times virat Kohli has been dismissed then what should I do,need_help
+271,Ganeshhemanth M,user_name
+272,Okay,good_bye
+273,I can not see 17th and 18th Oct videos yet,recordings_not_avilable
+274,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-3ccefbf4559be7c7754cb60e7d07292a url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-3ccefbf4559be7c7754cb60e7d07292a/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-3ccefbf4559be7c7754cb60e7d07292a width=467 height=352>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-3ccefbf4559be7c7754cb60e7d07292a>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-3ccefbf4559be7c7754cb60e7d07292a</a><OriginalName v=picturemessage_iuopxac3.jn0.png></OriginalName><FileSize v=12965></FileSize><meta type=photo originalName=picturemessage_iuopxac3.jn0.png></meta></URIObject>",O
+275,"Hi Team,The following question is regarding the class conducted for PowerBI on 4th May 2020. Is it possible to have a single worksheet which may contain fields/attributes which a BI analyst needs to first differentiate as Dimension Table and Facts Table before the analyst starts to work to transform the data?",Greetings
+276,i did not understand ticket closed sir,need_help
+277,sir will u please instruct how to do it m not getting it,need_help
+278,<partlist type=missed alt= callId=b4238a94-1acc-46de-9887-4dfb523bde49><part identity=muralispaiitm><name>MURALI</name><duration>11.225</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>11.225</duration></part></partlist>,O
+279,means total how many lists ?,support_ticket_generate
+280,Ok sir,good_bye
+281,I am trying to execute it but it contains error,code_error
+282,ok sir,good_bye
+283,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d5-a7e65f76b6769932a5cebf4dfa2b017b url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-a7e65f76b6769932a5cebf4dfa2b017b/views/imgt1_anim type=Picture.1 doc_id=0-sa-d5-a7e65f76b6769932a5cebf4dfa2b017b width=1152.428730926684 height=2048>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-a7e65f76b6769932a5cebf4dfa2b017b>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-a7e65f76b6769932a5cebf4dfa2b017b</a><OriginalName v=1596123995967.JPEG></OriginalName><FileSize v=144891></FileSize><meta type=photo originalName=1596123995967.JPEG></meta></URIObject>",O
+284,im also about to enrol with you for the DL batch from 25th,batch_details
+285,Hello sir is there anyone?,Greetings
+286,Had doubts regarding ml,enter_query
+287,<partlist type=missed alt= callId=a4626e84-4785-4c8e-b13c-500d8ba37f7b><part identity=live:.cid.b6267eb447e04148><name>Saritha Jaligama</name><duration>5.964</duration></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name><duration>5.964</duration></part></partlist>,O
+288,Hi,Greetings
+289,Like for dog catResult[0][0]==1 DogElse Cat So for multiclass Result[0][0]=1AResult[0][1]=2BResult[0][2]=3CResult[0][3]=4D,code_error
+290,Because i missed these two class,need_help
+291,Audio,O
+292,So i will do and let u know,sure
+293,and my app is created using python 3.6 and app.yaml using python 3.7 so may be that is causing the problem?,need_help
+294,Python community class project,community_class
+295,I am getting some problem in assignment number 5 question number 2,assignment_doubt
+296,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-ea-d5-774f130d5a8c332630cf4cb9cffc369c url_thumbnail=https://api.asm.skype.com/v1/objects/0-ea-d5-774f130d5a8c332630cf4cb9cffc369c/views/imgt1_anim type=Picture.1 doc_id=0-ea-d5-774f130d5a8c332630cf4cb9cffc369c width=885 height=486>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d5-774f130d5a8c332630cf4cb9cffc369c>https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d5-774f130d5a8c332630cf4cb9cffc369c</a><OriginalName v=image_2020_09_17T07_36_59_028Z.png></OriginalName><FileSize v=71822></FileSize><meta type=photo originalName=image_2020_09_17T07_36_59_028Z.png></meta></URIObject>",O
+297,Thank you,Thank_you
+298,okay,Thank_you
+299,hi,Greetings
+300,How will it possible ??,need_help
+301,so at s[14:5:-3] 14 is at &apos;r&apos; in &apos;kumar&apos;...yes?,O
+302,ohhh ok sir,good_bye
+303,"Hi ,Need help in solving the assignment question and Tried something like this. But not able to crack",support_ticket_generate
+304,and in question number 10 the z value via python code as manually i am getting,assignment_stats
+305,(wave),Greetings
+306,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d8-08f86cd1d4923abeb0c592c5d50398e6 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d8-08f86cd1d4923abeb0c592c5d50398e6/views/imgt1_anim type=Picture.1 doc_id=0-sa-d8-08f86cd1d4923abeb0c592c5d50398e6 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-08f86cd1d4923abeb0c592c5d50398e6>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-08f86cd1d4923abeb0c592c5d50398e6</a><OriginalName v=Screenshot (7).png></OriginalName><FileSize v=154697></FileSize><meta type=photo originalName=Screenshot (7).png></meta></URIObject>",O
+307,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d5-1faa2e226946dedb813ca68f5f166956 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-1faa2e226946dedb813ca68f5f166956/views/imgt1_anim type=Picture.1 doc_id=0-sa-d5-1faa2e226946dedb813ca68f5f166956 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-1faa2e226946dedb813ca68f5f166956>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-1faa2e226946dedb813ca68f5f166956</a><OriginalName v=Untitled.png></OriginalName><FileSize v=151241></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+308,i dont know the steps sir,need_help
+309,Thanks,welocme_reply
+310,not running sir,need_help
+311,ya,good_bye
+312,but why it is not giving p value,need_help
+313,ok,Thank_you
+314,sir how can i resolve my pyspark installation problem?,pyspark
+315,sir  i have watched the video 3 times and followed every instruction all process were ok but this last one is giving pain,need_help
+316,Thank you,Thank_you
+317,shall i paste the code here or shall i send the screenshot?,okay_reply
+318,Hi...,Greetings
+319,i deploy successfully but i want to run by gnicorn also,need_help
+320,i followed but one link have to copy paste where will it done ??,need_help
+321,Ok thanks a lot,welocme_reply
+322,not installed just signup,O
+323,hiee my name is sai kiran I have enrolled for dlp course and machine learning ..I havnt received power bi dash board although I have enrolled can u plzz resolve,power-bi_tableau_dashboard
+324,hello sir is there anyone?,Greetings
+325,sir is big data community classes paused for this week,community_class
+326,"by this, I mean random sample performing better(better representative of population) stratified sample *than stratified sample",support_ticket_generate
+327,yes I know but for Github URL not sure,need_help
+328,"Hello Sir , My Name is sudarshan I haven't got today session link for class. Python class",community_class_link
+329,I got idea i ll try from.my end if i ll face issue then i ll ask to you,sure
+330,Hii,Greetings
+331,I'm currently working on the chatbot projects. In the video tutorial of chatbot with google dialogflow virat in building solution video in the end says about some ineuron git repo where the step by step procedure of cloud is given. I'm not able to find that repo,gcp_deployment
+332,I had a query regarding power BI,enter_query
+333,please can you help me for installation of power bi in ubantu,powerbi_installation
+334,sorry ..installed it running plotly in offline version ..installed chart_studio also ..then when am trying to run df.iplot() then I ma getting that error,Plotly_installation
+335,Yes,Thank_you
+336,Sir do you have any Data Analytics training?,course_details
+337,ok,good_bye
+338,i followed the installation process again but same result,need_help
+339,and i kept on missing parts onto the same,need_help
+340,Registered for python course but not able to see in dashboard,support_ticket_generate
+341,i cannot see it in my courses list,need_help
+342,thank you for the quick clarification buddy!!,good_bye
+343,First I tried with base(root) environment.then I created an environment called webscrapper and updated beautiful soup library there. And then tried to run jupyter notebook with that env and kernel,need_help
+344,is thier any other way to do other than pca algorithim,need_help
+345,yes sir,Thank_you
+346,<a href=http://localhost:8888/edit/Downloads/datasets_25684_32733_Automobile.csv>http://localhost:8888/edit/Downloads/datasets_25684_32733_Automobile.csv</a>,O
+347,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d5-12c1f8ad817f739caf640e2640caef8b url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-12c1f8ad817f739caf640e2640caef8b/views/imgt1_anim type=Picture.1 doc_id=0-sa-d5-12c1f8ad817f739caf640e2640caef8b width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-12c1f8ad817f739caf640e2640caef8b>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-12c1f8ad817f739caf640e2640caef8b</a><OriginalName v=Untitled.png></OriginalName><FileSize v=119431></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+348,"For the internship, you told us to work with a team.So can we select members for team work or do you choose a team?",internship_query
+349,ok,Thank_you
+350,this error is coming in resnet.ipynb,code_error
+351,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d2-76c8c1210cddfd388325cc4264cb47f4 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d2-76c8c1210cddfd388325cc4264cb47f4/views/imgt1_anim type=Picture.1 doc_id=0-sa-d2-76c8c1210cddfd388325cc4264cb47f4 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-76c8c1210cddfd388325cc4264cb47f4>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-76c8c1210cddfd388325cc4264cb47f4</a><OriginalName v=Untitled.png></OriginalName><FileSize v=195560></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+352,hi,Greetings
+353,ok,okay_reply
+354,"dd.loc[:, (&apos;hour&apos;)]will this create a new column called as hour",code_error
+355,I an from 25th dlcvnlp batch 17th October recording not uploaded yet Please check and let me know Please try to upload today EOD,recordings_not_avilable
+356,okay I've found it,great
+357,Ohk so will I get a mail or something before that?,need_help
+358,Yes its working,great
+359,Sir I recieved the certificate of data science architecture but I haven&apos;t attended that and I don&apos;t have access to that class. So can I get the dashboard access of that ?,Dashboard_access
+360,Thank you. Got it but I'm unable to access the course.. Will it be added later?,support_ticket_generate
+361,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-fd24da442e2de3efb65d6f48f43d827e url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-fd24da442e2de3efb65d6f48f43d827e/views/imgt1_anim type=Picture.1 doc_id=0-sa-d1-fd24da442e2de3efb65d6f48f43d827e width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-fd24da442e2de3efb65d6f48f43d827e>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d1-fd24da442e2de3efb65d6f48f43d827e</a><OriginalName v=Untitled.png></OriginalName><FileSize v=112628></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+362,<partlist type=started alt= callId=1cc9df7a-d261-4a77-9f3d-d899d1b5c6cc><part identity=live:cibim04><name>Cibi M</name></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name></part></partlist>,O
+363,Sir when ll be the internship starting for students applied the form in August?,internship_query
+364,of 6th june batch,sorry
+365,Hello,Greetings
+366,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-acb502eefb6229d21a3bb934b95aa059 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-acb502eefb6229d21a3bb934b95aa059/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-acb502eefb6229d21a3bb934b95aa059 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-acb502eefb6229d21a3bb934b95aa059>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-acb502eefb6229d21a3bb934b95aa059</a><OriginalName v=Untitled.png></OriginalName><FileSize v=162304></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+367,Is there anyone sir?,Greetings
+368,i have restarted the system...but still getting the error during training model,code_error
+369,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d6-3b79a1b3a67a58deef5141f75317f9b1 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d6-3b79a1b3a67a58deef5141f75317f9b1/views/imgt1_anim type=Picture.1 doc_id=0-sa-d6-3b79a1b3a67a58deef5141f75317f9b1 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-3b79a1b3a67a58deef5141f75317f9b1>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d6-3b79a1b3a67a58deef5141f75317f9b1</a><OriginalName v=Untitled.png></OriginalName><FileSize v=112378></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+370,thanks sir now it is working fine for me,Thank_you
+371,K sir,more_query
+372,Good evening sir,Greetings
+373,I have attended the last half hour class of 18 th october Bcz of my network I was not able to attend clearly,recordings_not_avilable
+374,Hi Team,Greetings
+375,thanks for the quick response...,welocme_reply
+376,now check it is fine,sure
+377,check your code,need_help
+378,Ohk sir.thank you,Thank_you
+379,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d2-e60789d7ea91f1aa22d52e5c9fb63598 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d2-e60789d7ea91f1aa22d52e5c9fb63598/views/imgt1_anim type=Picture.1 doc_id=0-sa-d2-e60789d7ea91f1aa22d52e5c9fb63598 width=574 height=110>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-e60789d7ea91f1aa22d52e5c9fb63598>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d2-e60789d7ea91f1aa22d52e5c9fb63598</a><OriginalName v=image_2020_09_25T17_52_53_833Z.png></OriginalName><FileSize v=6063></FileSize><meta type=photo originalName=image_2020_09_25T17_52_53_833Z.png></meta></URIObject>",O
+380,hi,Greetings
+381,yes sir MLD 6th june my name is kiran menon,O
+382,Ok sir,good_bye
+383,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d8-1220dfd26ca6ecbb0e890a478230c994 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d8-1220dfd26ca6ecbb0e890a478230c994/views/imgt1_anim type=Picture.1 doc_id=0-sa-d8-1220dfd26ca6ecbb0e890a478230c994 width=751 height=732>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-1220dfd26ca6ecbb0e890a478230c994>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d8-1220dfd26ca6ecbb0e890a478230c994</a><OriginalName v=image_2020_10_05T06_41_55_000Z.png></OriginalName><FileSize v=62968></FileSize><meta type=photo originalName=image_2020_10_05T06_41_55_000Z.png></meta></URIObject>",O
+384,I am from Deep Learning 10th Oct batch,need_help
+385,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-1251e4f0399b935d87e44e563b0ada1e url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-1251e4f0399b935d87e44e563b0ada1e/views/imgt1_anim type=Picture.1 doc_id=0-sa-d4-1251e4f0399b935d87e44e563b0ada1e width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-1251e4f0399b935d87e44e563b0ada1e>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-1251e4f0399b935d87e44e563b0ada1e</a><OriginalName v=Untitled.png></OriginalName><FileSize v=194054></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+386,ok fine i got it,Thank_you
+387,no this data set I took from internet,O
+388,sir can I get 17 oct 2020 video of batch  DLCVNLP 25th July,youtube_video_availability
+389,<partlist type=started alt= OId=be91766c-57df-4aab-8acd-c13365764e13><part identity=live:.cid.fe63248b85b39c2f><name>Vikash Singh</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineuron ai</name></part></partlist>,O
+390,extension path name is postmanFactorial,need_help
+391,pycharm error are still coming,pycharm_error
+392,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d7-160d840110963ec52962e1c6a897d431 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d7-160d840110963ec52962e1c6a897d431/views/imgt1_anim type=Picture.1 doc_id=0-sa-d7-160d840110963ec52962e1c6a897d431 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-160d840110963ec52962e1c6a897d431>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d7-160d840110963ec52962e1c6a897d431</a><OriginalName v=Untitled.png></OriginalName><FileSize v=217442></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+393,Sir which url ?,need_help
+394,it was a new data set,O
+395,<partlist type=missed alt= callId=3f3034c4-f356-4719-9f5b-70d830eb602f><part identity=muralispaiitm><name>MURALI</name></part><part identity=live:.cid.4933a22bf564744><name>support@ineuron.ai</name></part></partlist>,O
+396,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d1-e1fa6269c94b6e1e836258e693b6f676 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d1-e1fa6269c94b6e1e836258e693b6f676/views/original type=File.1 doc_id=0-sa-d1-e1fa6269c94b6e1e836258e693b6f676>To view this file, go to: <a href=https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d1-e1fa6269c94b6e1e836258e693b6f676>https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-sa-d1-e1fa6269c94b6e1e836258e693b6f676</a><OriginalName v=requirements.txt></OriginalName><FileSize v=748></FileSize></URIObject>",O
+397,<a href=https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv>https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv</a>,O
+398,ok thanks submitted assignment pl check,Thank_you
+399,i was getting error message as tuple does not support this function,need_help
+400,like its saying the url which i gave is wrong,O
+401,got it. thanx,Thank_you
+402,<MediaAlbum albumId=99fa1cd5-c5ac-4d80-a22b-5285f1008cf7></MediaAlbum>,O
+403,can we have a quick call now,need_skype_call
+404,Hey can you tell me the timings you are available in a week?,bot_timing
+405,Ok sir,good_bye
+406,hi,Greetings
+407,and the rest of the liberary?,O
+408,Hi,Greetings
+409,sir 2 din se laga hua hu not getting result,need_help
+410,Also plz send me sudhanshuâ€™s web scraping lesson link,review_scrapping
+411,Have I written it correctly?,need_help
+412,I have registered for the Tableau course that is starting from today but not received any login details,support_ticket_generate
+413,Melody itni chocolatey kuyn hai ?,ignore
+414,"Hello team , could you plz tell me the domains of data science architecture took by sudanshu last 2 months ? I think he covered 20 domains as a whole ? Could you pls share me the domains names of those ?",data_science_architecture_class
+415,I have a doubt regarding one of the EDA&apos;s uploaded in dashboard,EDA_code
+416,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-5be2d5d38d513ab4010c3b6f4c727775 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-5be2d5d38d513ab4010c3b6f4c727775/views/imgt1_anim type=Picture.1 doc_id=0-sa-d4-5be2d5d38d513ab4010c3b6f4c727775 width=2048 height=1152>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-5be2d5d38d513ab4010c3b6f4c727775>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-5be2d5d38d513ab4010c3b6f4c727775</a><OriginalName v=1601993804396.JPEG></OriginalName><FileSize v=73553></FileSize><meta type=photo originalName=1601993804396.JPEG></meta></URIObject>",O
+417,okay,good_bye
+418,sorry sir but i want to know what is wrong in my code and thank you for your code it is understandable but just point out my mistake on that it will be helpful,need_help
+419,hi,Greetings
+420,while trying to test code from postman am getting url is incorrect error ..can u help me on thisI have given all the related SS ..please check for the same,postman_url_incorrect_error
+421,would you be able to guide me for the same?,need_help
+422,Hello Sir/Madam may I know the maths concepts which must be brushed up for ML Course,need_help
+423,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d5-77044157adca3f632109e3435f78aba8 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d5-77044157adca3f632109e3435f78aba8/views/imgt1_anim type=Picture.1 doc_id=0-sa-d5-77044157adca3f632109e3435f78aba8 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-77044157adca3f632109e3435f78aba8>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d5-77044157adca3f632109e3435f78aba8</a><OriginalName v=Untitled.png></OriginalName><FileSize v=187161></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+424,Ok sir,good_bye
+425,<partlist type=missed alt= OId=dda51f3c-c2b8-4eea-b6f9-c64d96bdb26f><part identity=live:kshirishaa_1><name>SHIRISHA K</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineuron_ai</name></part></partlist>,O
+426,I am Irfan,Greetings
+427,can you connect me to jiwiresh sir,sure
+428,x=tf.Variable(5)xinit=tf.global_variables_initializer()with tf.Session() as sess:    sess.run(init)    print(sess.run(x))how to change x value in Tensorflow 1,need_help
+429,<partlist type=started alt= OId=ad43697d-021a-46c2-aaf2-a5049cf14d2c><part identity=sourangshu.pal><name>sourangshu pal</name></part><part identity=live:.cid.4933a22bf564744><name>support_ineueon ai</name></part></partlist>,O
+430,Thanks you sir,Thank_you
+431,"<URIObject uri=https://api.asm.skype.com/v1/objects/0-sa-d4-5b7629d41ed500ecad759a08993b0242 url_thumbnail=https://api.asm.skype.com/v1/objects/0-sa-d4-5b7629d41ed500ecad759a08993b0242/views/imgt1_anim type=Picture.1 doc_id=0-sa-d4-5b7629d41ed500ecad759a08993b0242 width=1366 height=768>To view this shared photo, go to: <a href=https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-5b7629d41ed500ecad759a08993b0242>https://login.skype.com/login/sso?go=xmmfallback?pic=0-sa-d4-5b7629d41ed500ecad759a08993b0242</a><OriginalName v=Untitled.png></OriginalName><FileSize v=327216></FileSize><meta type=photo originalName=Untitled.png></meta></URIObject>",O
+432,Sir I m from 22nd Feb ml batch.. I have a query regarding mongodb of virat sir&apos;s class. I have followed all the steps he said but my jupyter notebook comand doesn&apos;t reflect on mongodb compass. What should I do,mongodb_installation
